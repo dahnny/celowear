@@ -1,8 +1,8 @@
 Zoa is a clothing dapp that enables customers get clothes from the online store. Users can also add used clothes and new clothes for other individuals to buy. The aim of this simple dapp is to improve the access of clothing using decentralization on the celo blockchain.
 
 
-#Things to do.
-Add a like feature that enables users around the world give their opinion about a particular cloth item.
+# Things to do.
+1) Add a like feature that enables users around the world give their opinion about a particular cloth item.
 
 
 # Install
