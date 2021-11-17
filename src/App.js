@@ -17,7 +17,6 @@ const contractAddress = "0x46178FeB4e08589978a0e1c440fBB0A0A8EB2A64";
 const cUSDContractAddress = "0x874069Fa1Eb16D44d622F2e0Ca25eeA172369bC1";
 
 function App() {
-  const [celoBalance, setCeloBalance] = useState(0);
   const [contract, setcontract] = useState(null);
   const [address, setAddress] = useState(null);
   const [kit, setKit] = useState(null);
